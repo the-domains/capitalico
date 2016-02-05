@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Capitalico]]></title>
         <description><![CDATA[Capitalico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/capitalico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 19:00:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 22:43:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/capitalico/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>https://thegrid.ai/capitalico/de2800d8-9a69-43e6-b8d5-350a86109320/index.html</link>
+            <guid isPermaLink="false">de2800d8-9a69-43e6-b8d5-350a86109320</guid>
+            <pubDate>Fri, 05 Feb 2016 22:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Make trading AI with your idea.  On mobile.  For free.</p>]]></description>
-            <link>undefinede8551bff-2cfa-42ef-97ba-a76521d5b1a0/index.html</link>
+            <link>https://thegrid.ai/capitalico/e8551bff-2cfa-42ef-97ba-a76521d5b1a0/index.html</link>
             <guid isPermaLink="false">e8551bff-2cfa-42ef-97ba-a76521d5b1a0</guid>
             <pubDate>Fri, 05 Feb 2016 19:00:00 GMT</pubDate>
         </item>
